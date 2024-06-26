@@ -1,4 +1,4 @@
-** Adventure Works Dashboard in Tableau**
+**Adventure Works Dashboard in Tableau**
 
 ● Overview: Get a comprehensive view of trends in sales, profit, orders, and returns compared to previous periods, complete with performance metrics for store locations, product categories, and top products.
 
